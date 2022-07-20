@@ -22,3 +22,14 @@
 * Products: a list of scale model cars
 
 * ProductLines: a list of product line categories
+
+#### Good analysis starts with questions. Below are the questions we want to answer for this project.
+
+* Question 1: Which products should we order more of or less of?
+
+* Question 2: How should we tailor marketing and communication strategies to customer behaviors?
+
+* Question 3: How much can we spend on acquiring new customers?
+
+
+## Conclusion and Recommendations
