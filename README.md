@@ -1,1 +1,0 @@
-# Scale_Model_Car_Sales_Analysis
